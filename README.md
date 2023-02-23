@@ -1,0 +1,2 @@
+# OCR-Arabic
+##Project Notes
